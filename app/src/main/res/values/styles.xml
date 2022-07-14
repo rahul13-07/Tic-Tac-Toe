@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="grid1">
+        <item name="android:layout_width">403dp</item>
+        <item name="android:layout_height">393dp</item>
+        <item name="android:layout_marginBottom">184dp</item>
+        <item name="android:background">#4FC3F7</item>
+        <item name="android:contentDescription">@string/grid</item>
+    </style>
+</resources>
